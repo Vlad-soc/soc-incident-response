@@ -4,7 +4,7 @@
 Credential Attack (Brute Force)
 
 ## Detection
-Multiple failed login attempts detected followed by a successful successful login.
+Multiple failed login attempts detected followed by a successful login.
 
 ## Investigation
 - Analyzed Windows Event ID 4625 (failed logon)
